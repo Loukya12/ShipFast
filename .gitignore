@@ -1,1 +1,17 @@
 .vercel
+venv/
+env
+
+index.html
+styles.css
+Images/
+assets/
+static/
+templates/
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+.vscode/
